@@ -7,3 +7,6 @@
 [submodule "user_interface"]
 	path = user_interface
 	url = https://github.com/Drone-Home/RCFLASK
+[submodule "recharging_port"]
+	path = recharging_port
+	url = https://github.com/Drone-Home/Recharging_Port
