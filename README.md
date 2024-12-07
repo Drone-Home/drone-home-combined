@@ -30,7 +30,7 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
      - GPS point list navigation tested and working
      - Google Earth integration with ROS for pose and location visual
      - ROS nodes more organized
-- **Interfaces**:
+- **Interfaces** [Website GUI on Flask]:
   - The Website Shell is complete, and will be connected to the other parts of the project next.
   - Here is a list of features:
      - Manual Controller Interface:
