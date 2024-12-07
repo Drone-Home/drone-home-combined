@@ -36,6 +36,10 @@ TODO update
 
 - **Connector**: **TODO**
 
-Known Bugs:
-TODO update
+How to run project components and known Bugs:
+See individual readme.md files in folders
+- computer_vision
+- recharging_port
+- ros2_ws
+- user_interface
 
