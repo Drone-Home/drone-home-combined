@@ -25,14 +25,17 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
    - **Interfaces**: Integrated with ROS2 and OpenCV for simlpe user interaction.
 
 ### Completed work this milestone (Prototype)
-- **Vehicle Control**: TOOD
-
+- **Vehicle Control**:
+     - Servo and motor PWM control
+     - GPS point list navigation tested and working
+     - Google Earth integration with ROS for pose and location visual
+     - ROS nodes more organized
 - **Interfaces**: TOOD
-
+     - 
 - **OpenCV**: TOOD
-
+     - 
 - **Charging functionality**: TOOD
-
+     - 
 How to run project components and known Bugs:
 See individual readme.md files in folders
 - computer_vision
