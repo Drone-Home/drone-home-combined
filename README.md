@@ -31,13 +31,10 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
      - Google Earth integration with ROS for pose and location visual
      - ROS nodes more organized
 - **Interfaces**:
-     - Manual Controller Interface: To be Connected to the Controller Node to Steer the Car.
-
-  a. Drag lever up/down to accelerate/decelerate
-
-  b. Press Left or Right Buttons to steer left/right
-
-  c. Can also use up/down/left/right computer keys to accelerate/decelerate/steer left/steer right
+     - Manual Controller Interface:
+     -    Drag lever up/down to accelerate/decelerate
+     -    Press Left or Right Buttons to steer left/right
+     -    Can also use up/down/left/right computer keys to accelerate/decelerate/steer left/steer right
 
   - GPS: To be Connected with the GPS Locations of the:
 
