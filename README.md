@@ -53,8 +53,10 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
 - **OpenCV**:
      - Trained a custom YOLOv11 model by labeling images of a sample object
      - Tested model performance for viability using OpenCV
-- **Charging functionality**: TODO
-     - 
+- **Charging functionality**:
+     - Created a communication board that will interface with drone, user application and power             delivery circuit to enable and disable charging.
+     - Tested communications output and tested different internal functions prior to integration.
+     - Set up and tested power delivery circuit board to be sure it properly outputted power when          connected to a power source using a voltmeter.
 
 How to run project components and known Bugs:
 See individual readme.md files in folders
