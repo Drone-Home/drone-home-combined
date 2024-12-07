@@ -31,23 +31,24 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
      - Google Earth integration with ROS for pose and location visual
      - ROS nodes more organized
 - **Interfaces**:
-  - The Website Shell is complete. Next, it will be connected with data from the other parts, as depicted:
+  - The Website Shell is complete, and will be connected to the other parts of the project next.
+  - Here is a list of features:
   - Manual Controller Interface:
-     -    i. Drag lever up/down to accelerate/decelerate
-     -    ii. Press Left or Right Buttons to steer left/right
-     -    iii. Can also use up/down/left/right computer keys to accelerate/decelerate/steer left/steer right
+     -    Drag lever up/down to accelerate/decelerate
+     -    Press Left or Right Buttons to steer left/right
+     -    Can also use up/down/left/right computer keys to accelerate/decelerate/steer left/steer right
   - GPS: To be Connected with the GPS Locations of the:
-     -    i. User (COMPLETED)
-     -    ii. R/C Car (to do)
-     -    iii. Drone (to do)
+     -    User (COMPLETED)
+     -    R/C Car (to do)
+     -    Drone (to do)
   - Video Feed: To be Connected to Computer Vision
-     -    i. Will show what the car is 'seeing'
-     -    ii. Currently connects to local computer camera to prove its function
+     -    Will show what the car is 'seeing'
+     -    Currently connects to local computer camera to prove its function
   - Website Interfacing: Using Flask
-     -    i. Primary mode of Drone Home interraction
-     -    ii. Is Perfectly Formatted, thus far
+     -    Primary mode of Drone Home interraction
+     -    Is Perfectly Formatted, thus far
   - Mobile Interfacing: To work on phones as well as computers
-     -    i. Works, but incomplete. Formatting needs work.
+     -    Works, but incomplete. Formatting needs work.
        
 - **OpenCV**:
      - Trained a custom YOLOv11 model by labeling images of a sample object
