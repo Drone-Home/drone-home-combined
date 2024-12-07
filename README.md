@@ -30,12 +30,14 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
      - GPS point list navigation tested and working
      - Google Earth integration with ROS for pose and location visual
      - ROS nodes more organized
-- **Interfaces**: TOOD
+- **Interfaces**: TODO
      - 
-- **OpenCV**: TOOD
+- **OpenCV**:
+     - Trained a custom YOLOv11 model by labeling images of a sample object
+     - Tested model performance for viability using OpenCV
+- **Charging functionality**: TODO
      - 
-- **Charging functionality**: TOOD
-     - 
+
 How to run project components and known Bugs:
 See individual readme.md files in folders
 - computer_vision
