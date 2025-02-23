@@ -25,9 +25,5 @@ The **Drone Home** project combines GPS, IMU, and computer vision for autonomous
    - **Interfaces**: Integrated with ROS2 and OpenCV for simple user interaction.
 
 How to run project components and known Bugs:
-Please see individual readme.md files in folders:
-- ros2_ws
-- computer_vision
-- recharging_port
-- user_interface
+Please see the readme.md file in the ros2_ws folder for the main setup instructions
 
